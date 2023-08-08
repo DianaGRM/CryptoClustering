@@ -1,5 +1,5 @@
 # CryptoClustering
 
-##Project parts
+## Project parts
 
-*Prepareing the data, the csv data is normalized with StandardScaler()
+* Preparing the data, the csv data is normalized with StandardScaler()
